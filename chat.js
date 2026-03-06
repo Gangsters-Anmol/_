@@ -17,7 +17,7 @@ import { onAuthChange, showToast,
 
 /* ══ CLOUDINARY ═════════════════════════════════════════════════ */
 const CLOUD_NAME    = "dsbsinbun";
-const UPLOAD_PRESET = "ml_default";
+const UPLOAD_PRESET = "ghost_user";
 const MAX_IMG_SIZE  = 5  * 1024 * 1024;
 const MAX_VID_SIZE  = 100 * 1024 * 1024;
 
